@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 <h1 align="center">Hoi! I'm Ozan Çetin!</h1>
 
 ###
@@ -49,9 +48,5 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="30" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="70" height="30" alt="youtube logo"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/0zy/0zy/blob/output/snake.svg" alt="Snake animation" />
 
 ###
