@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="center">Reach me via</h2>
+<h2 align="center">Contact me via</h2>
 
 
 <div align="center">
