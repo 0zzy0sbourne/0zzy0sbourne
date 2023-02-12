@@ -40,6 +40,9 @@ Here are some ideas to get you started:
 
 ###
 
+<h2 align="center">Reach me via</h2>
+
+
 <div align="center">
   <a href="https://www.linkedin.com/in/ozan-cetin-23717a1a3/"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="30" alt="linkedin logo"/></a>
   <a href="mailto:ozanc1091@gmail.com"> <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/></a> 
