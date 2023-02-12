@@ -43,7 +43,7 @@ Here are some ideas to get you started:
 ###
 
 <div align="center">
-  <img src="https://www.linkedin.com/in/ozan-cetin-23717a1a3/" width="70" height="30" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" href="https://www.linkedin.com/in/ozan-cetin-23717a1a3/" width="70" height="30" alt="linkedin logo"  />
 </div>
 
 ###
