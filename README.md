@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **0zzy0sbourne/0zzy0sbourne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
