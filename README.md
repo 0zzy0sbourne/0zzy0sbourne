@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hoi! This is Ozan Çetin!</h1>
+<h1 align="center">Hoi! This is Ozan!</h1>
 
 ###
 
